@@ -1,0 +1,22 @@
+{
+    "name": "pefect-light-theme",
+    "displayName": "perfect_light_theme",
+    "description": "THE PERFECT BALANCE BETWEEN READABILITY AND CONTRAST LIGHT THEME LOVERS",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "publisher": "sachitjaggi",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "perfect-colour-theme",
+                "uiTheme": "vs",
+                "path": "./themes/perfect-light-color-theme.json"
+            }
+        ]
+    }
+}
