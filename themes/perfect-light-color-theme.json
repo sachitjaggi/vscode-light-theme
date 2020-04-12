@@ -4,7 +4,8 @@
 	"colors": {
 		"editor.background": "#f5f5f5",
 		"editor.foreground": "#333333",
-		"activityBar.activeBackground": "#e5ebf007",
+		"activityBar.background": "#f5f5f5",
+		"activityBar.foreground": "#2320b6",
 		"statusBar.background": "#bd32b1",
 		"terminal.ansiBrightMagenta": "#ff0000"
 	},
